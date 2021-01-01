@@ -13,7 +13,7 @@ git clone https://github.com/Cevernaya/GrayJack_Ckswjd99.git
 ```
 2. Node.js를 통해 main.js를 실행합니다.
 ```
-node main
+node src/main
 ```
 
 
